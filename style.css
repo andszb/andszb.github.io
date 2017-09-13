@@ -75,7 +75,7 @@ ul.art-vmenu a
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
-   color: #5D565C;
+   color: 208075;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
@@ -217,8 +217,8 @@ body
    padding: 0;
    margin:0;
    min-width: 1000px;
-   color: #423D41;
-   background-color: #FFFFFF;
+   color: #101;
+   background-color: #707020;
 }
 
 .cleared
@@ -378,7 +378,7 @@ div.art-header
 {
    position: relative;
    top:0;
-   width:1000px;
+   width:506px;
    margin:0 auto;
 }
 .art-header-inner 
@@ -931,7 +931,7 @@ ul.art-vmenu li{
 
 ul.art-vmenu>li>a 
 {
-   color: #5D565C;
+   color: 208075;
    padding: 0 10px 0 25px;
    height: 30px;
    line-height: 30px;
@@ -1018,7 +1018,7 @@ ul.art-vmenu ul a
    padding-left:30px;
    padding-right:15px;
    line-height: 24px;
-   color: #5D565C;
+   color: 208075;
    margin-left: 0;
    margin-right: 0;
 }
@@ -1029,7 +1029,7 @@ ul.art-vmenu ul a.active{
 ul.art-vmenu ul a:hover{
    background-position: center left;
    line-height: 24px;
-   color: #5D565C;
+   color: 208075;
    margin-left: 0;
    margin-right: 0;
 }
@@ -1064,7 +1064,7 @@ ul.art-vmenu ul a.active:after{
 ul.art-vmenu ul a:link, ul.art-vmenu ul a:visited, ul.art-vmenu ul a:active
 {
    line-height: 24px;
-   color: #5D565C;
+   color: 208075;
    margin-left: 0;
    margin-right: 0;
 }
@@ -1105,10 +1105,10 @@ ul.art-vmenu ul ul ul ul ul a{
 }
 
 ul.art-vmenu ul li a.active {
-   color: #5D565C;
+   color: 208075;
 }
 ul.art-vmenu ul li a:hover, ul.art-vmenu ul li a:hover.active {
-   color: #D0CDD0;
+   color: 208075;
 }
 
 /* end VMenuSubItem */
